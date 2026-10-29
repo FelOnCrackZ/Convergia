@@ -4,6 +4,8 @@ Aplicación web interactiva que aproxima cualquier función f(x) mediante **seri
 
 **Tecnologías:** Python · Flask · SymPy · HTML · CSS · JavaScript (Chart.js y KaTeX por CDN)
 
+# Integrantes: Felipe Nuñez Navarro (2460817) // Jorge Humberto Leyes Rojas (2460809)
+
 ---
 
 ## Funcionalidades
