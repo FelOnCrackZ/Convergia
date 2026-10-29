@@ -1,5 +1,3 @@
-# Convergia
-Aplicación web interactiva con las series de Taylor y Maclaurin
 # Convergia · Series de Taylor y Maclaurin
 
 Aplicación web interactiva que aproxima cualquier función f(x) mediante **series de Taylor y Maclaurin** y muestra, término por término, cómo la aproximación converge al valor real.
